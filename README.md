@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @pratik Ostwal
+- 👋 Hi, I’m Pratik Ostwal
 - 👀 I’m interested in HTML5, CSS3, BOOTSTRAP, JAVASCRIPT, REACTJS, NODEJS, EXPRESSJS, MONGODB.
-- 🌱 I’m currently learning JAVA, ANDROID.
+- 🌱 I’m currently learning REACTNATIVE, JAVA.
 - 💞️ I’m looking to collaborate on IT Companyes
 - 📫 How to reach me pratikostwal985@gmail.com
